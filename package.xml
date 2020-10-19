@@ -4,5 +4,10 @@
         <members>Account.Industry</members>
         <name>CustomField</name>
     </types>
+    <types>
+        <members>Industry</members>
+        <members>Industry</members>
+        <name>StandardValueSet</name>
+    </types>
     <version>49.0</version>
 </Package>
