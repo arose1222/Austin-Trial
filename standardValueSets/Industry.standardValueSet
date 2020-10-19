@@ -161,4 +161,9 @@
         <default>false</default>
         <label>Utilities</label>
     </standardValue>
+    <standardValue>
+        <fullName>Copado Test</fullName>
+        <default>false</default>
+        <label>Copado Test</label>
+    </standardValue>
 </StandardValueSet>
