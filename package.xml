@@ -5,8 +5,21 @@
         <name>CustomField</name>
     </types>
     <types>
-        <members>Account-Account Layout</members>
-        <name>Layout</name>
+        <members>Admin</members>
+        <members>Chatter External User</members>
+        <members>Chatter Free User</members>
+        <members>Chatter Moderator User</members>
+        <members>ContractManager</members>
+        <members>External Identity User</members>
+        <members>Force%2Ecom - App Subscription User</members>
+        <members>Guest License User</members>
+        <members>MarketingProfile</members>
+        <members>Minimum Access - Salesforce</members>
+        <members>ReadOnly</members>
+        <members>SolutionManager</members>
+        <members>Standard</members>
+        <members>System Admin</members>
+        <name>Profile</name>
     </types>
     <version>50.0</version>
 </Package>
