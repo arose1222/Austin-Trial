@@ -281,6 +281,17 @@
         <type>Picklist</type>
     </fields>
     <fields>
+        <fullName>Package_XML_Test__c</fullName>
+        <description>Testing Package.XML file being attached correctly to the Deployment record (specifically destructive changes)</description>
+        <externalId>false</externalId>
+        <label>Package.XML Test</label>
+        <length>250</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>ParentId</fullName>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Hierarchy</type>
