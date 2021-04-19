@@ -418,10 +418,6 @@ CASE( Dreamforce__c,
         <type>Lookup</type>
     </fields>
     <fields>
-        <fullName>Jigsaw</fullName>
-        <trackFeedHistory>false</trackFeedHistory>
-    </fields>
-    <fields>
         <fullName>LastCURequestDate</fullName>
     </fields>
     <fields>
@@ -435,6 +431,16 @@ CASE( Dreamforce__c,
     <fields>
         <fullName>MailingAddress</fullName>
         <trackFeedHistory>false</trackFeedHistory>
+    </fields>
+    <fields>
+        <fullName>Manual_Deployment_Task_Test2__c</fullName>
+        <externalId>false</externalId>
+        <label>Manual Deployment Task Test2</label>
+        <length>250</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
     </fields>
     <fields>
         <fullName>MobilePhone</fullName>
