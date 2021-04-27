@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>Contact.Manual_Deployment_Task_Test2__c</members>
-        <name>CustomField</name>
+        <members>Testing_Environment_Variables</members>
+        <name>CustomLabel</name>
     </types>
     <version>51.0</version>
 </Package>
