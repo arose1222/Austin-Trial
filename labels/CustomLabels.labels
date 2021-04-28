@@ -7,4 +7,11 @@
         <shortDescription>Testing Environment Variables</shortDescription>
         <value>{!Environment.Testing_Environment_Variables}</value>
     </labels>
+    <labels>
+        <fullName>Testing_Environment_Variables2</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Testing Environment Variables2</shortDescription>
+        <value>{!Environment.Testing_Environment_Variables2}</value>
+    </labels>
 </CustomLabels>
