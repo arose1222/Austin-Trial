@@ -265,6 +265,7 @@
     </fields>
     <fields>
         <fullName>Industry</fullName>
+        <description>Test Description</description>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Picklist</type>
     </fields>
