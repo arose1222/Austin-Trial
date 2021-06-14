@@ -443,6 +443,19 @@
             </values>
         </picklistValues>
     </recordTypes>
+    <recordTypes>
+        <fullName>Compeer_RT</fullName>
+        <active>true</active>
+        <businessProcess>Case Type</businessProcess>
+        <label>Compeer RT</label>
+        <picklistValues>
+            <picklist>Origin</picklist>
+            <values>
+                <fullName>Email</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+    </recordTypes>
     <searchLayouts>
         <customTabListAdditionalFields>CASES.CASE_NUMBER</customTabListAdditionalFields>
         <customTabListAdditionalFields>CASES.SUBJECT</customTabListAdditionalFields>
