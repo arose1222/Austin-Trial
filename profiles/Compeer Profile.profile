@@ -7372,10 +7372,6 @@
         <recordType>Case.Case2</recordType>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Case-Case Layout</layout>
-        <recordType>Case.Compeer_RT</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>CaseClose-Close Case Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -10118,11 +10114,6 @@
         <apexPage>copado__viewOrg</apexPage>
         <enabled>false</enabled>
     </pageAccesses>
-    <recordTypeVisibilities>
-        <default>true</default>
-        <recordType>Case.Compeer_RT</recordType>
-        <visible>true</visible>
-    </recordTypeVisibilities>
     <recordTypeVisibilities>
         <default>true</default>
         <recordType>Compeer_Testing__c.Compeer_Testing_RT</recordType>
