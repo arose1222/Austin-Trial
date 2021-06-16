@@ -245,7 +245,7 @@
     <fields>
         <fullName>Compeer_Field_1__c</fullName>
         <externalId>false</externalId>
-        <label>Compeer Field 1</label>
+        <label>Compeer Field 1.1</label>
         <length>250</length>
         <required>false</required>
         <trackFeedHistory>false</trackFeedHistory>
@@ -257,7 +257,7 @@
     <fields>
         <fullName>Compeer_Field_2__c</fullName>
         <externalId>false</externalId>
-        <label>Compeer Field 2</label>
+        <label>Compeer Field 2.1</label>
         <length>250</length>
         <required>false</required>
         <trackFeedHistory>false</trackFeedHistory>
