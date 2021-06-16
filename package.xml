@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>Compeer Profile</members>
-        <name>Profile</name>
+        <members>Case.Compeer_Field_1__c</members>
+        <members>Case.Compeer_Field_2__c</members>
+        <name>CustomField</name>
     </types>
     <version>51.0</version>
 </Package>
