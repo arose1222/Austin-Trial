@@ -4,5 +4,13 @@
         <members>Compeer_Testing__c-Compeer Testing Layout 2%2E0</members>
         <name>Layout</name>
     </types>
+    <types>
+        <members>System Admin</members>
+        <name>Profile</name>
+    </types>
+    <types>
+        <members>Compeer_Testing__c.Compeer_Testing_RT</members>
+        <name>RecordType</name>
+    </types>
     <version>51.0</version>
 </Package>
