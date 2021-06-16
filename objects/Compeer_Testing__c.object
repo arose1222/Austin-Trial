@@ -169,6 +169,11 @@
         <type>Text</type>
     </nameField>
     <pluralLabel>Compeer Testing</pluralLabel>
+    <recordTypes>
+        <fullName>Compeer_Testing_RT</fullName>
+        <active>true</active>
+        <label>Compeer Testing RT</label>
+    </recordTypes>
     <searchLayouts />
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
