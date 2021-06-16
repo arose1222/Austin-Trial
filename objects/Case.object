@@ -387,6 +387,20 @@
         <trackTrending>false</trackTrending>
     </fields>
     <fields>
+        <fullName>Testing_Type__c</fullName>
+        <externalId>false</externalId>
+        <label>Quality Gate</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetName>copado__Quality_Gate_Types</valueSetName>
+        </valueSet>
+    </fields>
+    <fields>
         <fullName>Type</fullName>
         <trackFeedHistory>false</trackFeedHistory>
         <trackHistory>true</trackHistory>
